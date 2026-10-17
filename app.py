@@ -2,7 +2,6 @@
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
-
 # ==========================================
 # 1. PAGE CONFIGURATION
 # ==========================================
